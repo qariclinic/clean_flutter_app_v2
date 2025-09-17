@@ -1,4 +1,4 @@
-package com.example.clean_flutter_app
+package com.example.clean_flutter_app  // ← اپنے پیکج نیم کے مطابق بدلیں
 
 import io.flutter.embedding.android.FlutterActivity
 

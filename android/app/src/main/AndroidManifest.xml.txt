@@ -1,9 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.clean_flutter_app"> <!-- ← اپنے پیکج نیم کے مطابق بدلیں -->
 
-  <application
+<application
     android:label="clean_flutter_app"
-    android:name="io.flutter.app.FlutterApplication"
     android:icon="@mipmap/ic_launcher">
 
 
